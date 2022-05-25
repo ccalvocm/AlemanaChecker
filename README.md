@@ -1,5 +1,5 @@
 # AlemanaChecker
- check COVID vaccine shots
+ check COVID vaccine shots availability
 
 ## Usage
 
